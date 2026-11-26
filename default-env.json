@@ -6,10 +6,7 @@
                 "label": "xsuaa",
                 "tags": [
                     "xsuaa"
-                ],
-                "credentials": {
-                    <for running in BAS add credentials>
-                }
+                ]
             }
         ],
         "destination": [
@@ -18,10 +15,7 @@
                 "label": "destination",
                 "tags": [
                     "destination"
-                ],
-                "credentials": {
-                    <for running in BAS add credentials>
-                }
+                ]
             }
         ],
         "connectivity": [
@@ -30,10 +24,7 @@
                 "label": "connectivity",
                 "tags": [
                     "connectivity"
-                ],
-                "credentials": {
-                    <for running in BAS add credentials>
-                }
+                ]
             }
         ]
     }
